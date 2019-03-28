@@ -129,18 +129,10 @@ form:hover .fa{
 }
 
 
-.picture-logo{
-   position: fixed;
-    background-image:url(https://imgur.com/4O5dH8N.png);
-    background-size:200px;
-    width: 200px;
-    height: 200px;
-   top:-50px;
-    left:-10px;
-    z-index:1;
+
        
     
-}
+
 
 
 
